@@ -8,7 +8,6 @@ module.exports = {
         var pageNo = req.params.page;
         var skip = size * (pageNo - 1);
         var totalCount = null;
-        debugger
         return user.count({
             attribute:{
                 include:['id'],
