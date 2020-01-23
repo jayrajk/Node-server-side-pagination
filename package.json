@@ -7,7 +7,7 @@
     "express": "^4.16.4",
     "joi": "^14.0.3",
     "mysql2": "^1.6.1",
-    "sequelize": "^4.41.0",
+    "sequelize": "^5.15.1",
     "sequelize-cli": "^5.2.0"
   },
   "devDependencies": {},
